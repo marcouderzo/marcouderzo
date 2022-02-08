@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+🌱 I'm a Computer Science student @ UniPD, interested in Machine Learning & Data Science applied to Molecular Biologiy and to the Biomedical field.
+💬 I graduated high school at Liceo Classico G.B. Brocchi (Bassano del Grappa), so I have a background in Art History, Latin and Greek Languages & Literature.
+⚡ I'm also a self-taught Traditional & 2D/3D Artist in my free time.
+
+📫 You can find me here:
+- !(LinkedIn)[https://www.linkedin.com/in/marcouderzo/]
+- !(ArtStation)[www.artstation.com/marcouderzo]
+- !(Instagram)[www.instagram.com/marcouderzo]
+
+
 <!--
 **marcouderzo/marcouderzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
