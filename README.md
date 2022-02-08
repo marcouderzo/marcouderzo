@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-- 🌱 I'm a Computer Science student @ UniPD, interested in Machine Learning & Data Science applied to Molecular Biologiy and to the Biomedical field.
+- 🌱 I'm a Computer Science student @ UniPD, interested in Machine Learning & Data Science applied to Molecular Biology and to the Biomedical field.
 - 💬 I graduated high school at Liceo Classico G.B. Brocchi (Bassano del Grappa), so I have a background in Art History, Latin and Greek Languages & Literature.
-- ⚡ I'm also a self-taught Traditional & 2D/3D Artist in my free time.
+- ⚡ I'm also a self-taught Traditional & 2D/3D Digital Artist in my free time. 
+    - Traditional Side: Paper & Pencil Colours.
+    - Digital Side: Photoshop (Drawing for 2D, Compositing for 3D), ZBrush, Substance Painter, Keyshot 
+
 
 📫 You can find me here:
 - ![LinkedIn](https://www.linkedin.com/in/marcouderzo/)
