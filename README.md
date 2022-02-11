@@ -11,9 +11,9 @@
 - ⚡ Fun Fact: I am Albert Uderzo's second cousin, the artist behind the Asterix Comics.
 
 📫 You can find me here:
-- ![LinkedIn - My Resume](https://www.linkedin.com/in/marcouderzo/)
-- ![ArtStation - My Digital Art Portfolio](www.artstation.com/marcouderzo)
-- ![Instagram](www.instagram.com/marcouderzo)
+- [LinkedIn - My Resume](https://linkedin.com/in/marcouderzo/)
+- [ArtStation - My Digital Art Portfolio](https://artstation.com/marcouderzo)
+- [Instagram](https://instagram.com/marcouderzo)
 
 💬 Fancy talking about arts? Let's get in touch!
 
