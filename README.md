@@ -7,7 +7,8 @@
 - ⚡ I'm also a self-taught Traditional & 2D/3D Digital Artist in my free time. 
     - Traditional Side: Paper & Pencil Colours.
     - Digital Side: Photoshop (Drawing/Painting for 2D works, Compositing for 3D ones), ZBrush, Substance Painter, Keyshot.
-- 🏋️ I lift heavy things and put them down. That is to say, I enjoy Working Out and Powerlifting.
+- 🎹 I enjoy playing the Piano when I find one around. If I discover a catchy song on Spotify, I'll get the music sheet and learn it.
+- 🏋️ I pick heavy things up and put them down. That is to say, I enjoy working out and Powerlifting.
 - ⚡ Fun Fact: I am Albert Uderzo's second cousin, the artist behind the Asterix Comics.
 
 📫 You can find me here:
