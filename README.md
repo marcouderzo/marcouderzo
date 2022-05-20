@@ -2,7 +2,7 @@
 
 😄  Hi, I'm Marco.
 
-- 📚 I'm a Computer Science student @ UniPD, interested in Machine Learning / Deep Learning & Data Science applied to Molecular Biology. I'm also keen on learning about 3D Graphics, Ray Tracing & PBR, and I enjoy getting my hands dirty with Arduino boards and microcontrollers.
+- 📚 I'm a Computer Science student @ UniPD, interested in Machine Learning / Deep Learning & Data Science applied to Molecular Biology. I'm also keen on learning about AI-Generated Art, 3D Graphics, Ray Tracing & PBR, and I enjoy getting my hands dirty with Arduino boards and microcontrollers.
 - 🎓 I graduated high school at Liceo Classico G.B. Brocchi (Bassano del Grappa), so I have a background in Art History, Philosophy, Latin and Greek Languages & Literature.
 - 🎨 I'm also a self-taught Traditional & 2D/3D Digital Artist in my free time. The tools I use are:
     - Traditional Side: Paper & Pencil Colours.
