@@ -15,6 +15,8 @@
 - [ArtStation - My Digital Art Portfolio](https://artstation.com/marcouderzo)
 - [Instagram](https://instagram.com/marcouderzo)
 
+![Marco Uderzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcouderzo&show_icons=true&theme=github_dark)
+
 
 
 <!--
