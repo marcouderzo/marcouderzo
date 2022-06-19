@@ -15,8 +15,8 @@
 - [ArtStation - My Digital Art Portfolio](https://artstation.com/marcouderzo)
 - [Instagram](https://instagram.com/marcouderzo)
 
-![Marco Uderzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcouderzo&show_icons=true&theme=github_dark)
-![Marco Uderzo's Top Languages]https://github-readme-stats.vercel.app/api/top-langs?username=marcouderzo&show_icons=true&locale=en&layout=compact&theme=dracula"
+![Marco Uderzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcouderzo&show_icons=true&theme=github_dark) <br/>
+![Marco Uderzo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=marcouderzo&show_icons=true&locale=en&theme=github_dark")
 
 
 
