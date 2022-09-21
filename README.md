@@ -1,7 +1,7 @@
 ### Hey there! 👋
 
-- 📚 I'm a Computer Science student @ UniPD, interested in Machine Learning / Deep Learning & Data Science applied to Molecular Biology. I'm also keen on learning about Art-Generative ML Models, as well as cutting-edge 3D Graphics research.
-- 🎓 I graduated high school at Liceo Classico G.B. Brocchi in Bassano del Grappa, so I have a background in Art History, Philosophy, Latin and Greek Languages & Literatures. 
+- 📚 I'm a MSc Biomolecular Data Science Student @ UniPD, interested in Machine Learning / Deep Learning & Data Science applied to Molecular Biology. I'm also keen on learning about Art-Generative GAN ML Models, as well as about cutting-edge 3D Graphics.
+- 🎓 I graduated high school at Liceo Classico G.B. Brocchi in Bassano del Grappa, so I have a background in Art History, Philosophy, Latin and Greek Languages & Literatures.
 - 🎨 I'm a self-taught Traditional & 2D/3D Digital Artist. I mainly draw on paper and digitally using Photoshop, and I am proficient in ZBrush Sculpting & Rendering in KeyShot.
 
 📫 You can find me here:
