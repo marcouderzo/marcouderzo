@@ -1,4 +1,5 @@
-### Hey there! 👋
+### Hey there! 👋 
+
 
 - 📚 I'm a MSc Biological Data Science Student @ UniPD, interested in Machine Learning / Deep Learning & Data Science applied to Molecular Biology. I'm also keen on learning about Art-Generative GAN ML Models, as well as about cutting-edge 3D Graphics, Intelligent Robotics and Computer Vision.
 - 🎓 I graduated high school at Liceo Classico G.B. Brocchi in Bassano del Grappa, so I have a background in Art History, Philosophy, Latin and Greek Languages & Literatures.
@@ -14,8 +15,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11148896520&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ![Marco Uderzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcouderzo&show_icons=true&theme=github_dark) <br/>
 ![Marco Uderzo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=marcouderzo&show_icons=true&locale=en&layout=compact&theme=github_dark)
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11148896520&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
