@@ -1,6 +1,6 @@
 ### Hey there! 👋 
 
-📚 MSc Biological Data Science Student @ UniPD, interested in Computational Biology, and Deep Machine Learning & Data Science applied to the Biomolecular field.
+📚 MSc Biological Data Science Student @ UniPD, interested in Computational Biology, Deep Machine Learning & Data Science applied to Molecular Biology.
 
 📫 You can find me here:
 
