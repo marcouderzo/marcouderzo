@@ -1,6 +1,6 @@
 ### Hey there! 👋 
 
-📚 MSc Biological Data Science Student @ UniPD, interested in Computational Biology, Deep Machine Learning & Data Science applied to Molecular Biology.
+📚 MSc Biological Data Science Student @ UniPD, interested in Computational Biology and Deep Machine Learning applied to Molecular Biology.
 
 ### Connect with Me:
 <a href="https://www.linkedin.com/in/marcouderzo/" target="_blank" rel="noreferrer">
