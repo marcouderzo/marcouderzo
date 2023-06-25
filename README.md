@@ -3,12 +3,18 @@
 📚 MSc Biological Data Science Student @ UniPD, interested in Computational Biology, Deep Machine Learning & Data Science applied to Molecular Biology.
 
 ### Connect with Me:
-  <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/marcouderzo/" target="_blank" rel="noreferrer"/> <img src="https://img.shields.io/badge/artstation-%2313AFF0.svg?&style=for-the-badge&logo=artstation&logoColor=white" href="https://www.linkedin.com/in/marcouderzo/" target="_blank" rel="noreferrer" />
+<a href="https://www.linkedin.com/in/marcouderzo/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a> <a href="https://www.artstation.com/marcouderzo" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a> 
+
+### About: 
 
 <table>
   <tr>
     <td>
-      <h3>Programming Languages</h3>
+      <h3>Programming Languages:</h3>
       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
       </a>
@@ -29,7 +35,7 @@
       </a>
     </td>
     <td>
-      <h3>Frameworks</h3>
+      <h3>Frameworks:</h3>
       <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
       </a>
@@ -38,7 +44,7 @@
       </a>
     </td>
     <td>
-      <h3>Others</h3>
+      <h3>Others:</h3>
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
       </a>
