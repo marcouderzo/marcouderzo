@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/marcouderzo/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a> <a href="https://www.artstation.com/marcouderzo" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/artstation-%2313AFF0.svg?&style=for-the-badge&logo=artstation&logoColor=white" />
 </a> 
 
 ### About: 
