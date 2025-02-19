@@ -1,6 +1,6 @@
 ### Hey there! 👋 
 
-📚 MSc Biological Data Science Student @ UniPD, interested in Deep Learning and Computational Biology 
+🧬 Bioinformatics Research Engineer (IE, CNRS) @ Institute of Functional Genomics, Lyon (IGFL)
 
 ### Connect with Me:
 <a href="https://www.linkedin.com/in/marcouderzo/" target="_blank" rel="noreferrer">
