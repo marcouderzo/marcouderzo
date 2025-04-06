@@ -1,6 +1,6 @@
 ### Hey there! 👋 
 
-🧬 Bioinformatics Research Engineer (IE, CNRS) @ Institute of Functional Genomics, Lyon (IGFL)
+🧬 Bioinformatics Engineer (IE, CNRS) @ Institute of Functional Genomics, Lyon (IGFL)
 
 ### Connect with Me:
 <a href="https://www.linkedin.com/in/marcouderzo/" target="_blank" rel="noreferrer">
