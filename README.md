@@ -13,7 +13,7 @@
 <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="30""/></a>
 </p>
 
-### Ecosystems, Frameworks & Libraries
+### Frameworks & Libraries
 <p align="left">
 <a href="https://scverse.org"><img src="https://user-images.githubusercontent.com/8238804/236215054-96b20b86-4f15-4b89-8e54-ac556ba4aafb.svg" width="32"/></a>  
 <a href="https://anndata.readthedocs.io/en/stable/"><img src="https://raw.githubusercontent.com/scverse/anndata/main/docs/_static/img/anndata_schema.svg" width="32"/></a>
