@@ -2,7 +2,6 @@
 
 🧬 PhD Student in Computational Neurobiology @ Institute of Functional Genomics, Lyon (IGFL)
 
-
 ### Programming Languages
 <p align="left">
 <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/></a>
@@ -22,12 +21,4 @@
 <a href="https://squidpy.readthedocs.io/en/stable/"><img src="https://squidpy.readthedocs.io/en/stable/_static/squidpy_horizontal.png" width="70"/></a>
 <a href="https://igraph.org/"><img src="https://avatars.githubusercontent.com/u/3735184?s=48&v=4" width="30"/></a>
 <a href="https://pytorch.org/"><img src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" width="30"/></a>
-<a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="30"/></a>
-<a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="35"/></a>
-
-
-
-
-
-  
 </p>
